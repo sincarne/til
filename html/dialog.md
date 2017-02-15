@@ -1,0 +1,3 @@
+The HTML living specification includes a [`dialog` element](https://html.spec.whatwg.org/multipage/forms.html#the-dialog-element). It's a standard way to present a pop up that requires interaction. The dialog can optionally be a modal. If it's a modal, the background of the document is covered by a new psuedoelement, `dialog::backdrop`. You can query the `open` state of the dialog. The `dialog` has `close` and `cancel` events. If you pass an argument to `dialog.close`, that argument sets the `dialog.returnValue` property.
+
+Right now [only Chrome supports `dialog`](http://caniuse.com/#feat=dialog), but [Google have provided a polyfill](https://github.com/GoogleChrome/dialog-polyfill).
