@@ -26,3 +26,4 @@ Small snippets of things I just figured out, or to which I often need to refer.
 ---
 
 ### Random Facts
+* [NASA uses only 15 digits of pi](http://www.vox.com/2016/4/2/11350518/nasa-digits-pi). At that precision, at 12.5B miles from Earth–the distance of Voyager 1–a calculation would be off by 1.5 inches.
