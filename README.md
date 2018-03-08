@@ -5,6 +5,7 @@ Small snippets of things I just figured out, or to which I often need to refer.
 
 * [Command line](#command-line)
 * [HTML](#html)
+* [PHP](#php)
 * [Ubuntu](#ubuntu)
 * [WordPress](#wordpress)
 * [Random Facts](#random-facts)
@@ -14,6 +15,10 @@ Small snippets of things I just figured out, or to which I often need to refer.
 
 ### HTML
 * [`dialog`](html/dialog.md)
+
+### PHP
+* [`date_sun_info`](php/sun.md)
+
 
 ### Ubuntu
 * [Creating and modifying a user](ubuntu/creating-and-modifying-a-user.md)
