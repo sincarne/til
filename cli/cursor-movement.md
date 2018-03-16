@@ -7,4 +7,6 @@
 * `alt-d` - delete the word in front of the cursor
 * `ctrl-w` - delete the word behind of the cursor
 
+To ensure this works on Mac, turn on the meta key in your terminal emulator's preferences.
+
 Taken from [Mastering Bash and Terminal](https://www.blockloop.io/mastering-bash-and-terminal)
