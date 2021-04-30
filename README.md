@@ -28,6 +28,7 @@ Small snippets of things I just figured out, or to which I often need to refer.
 
 ### WordPress
 * [Format the excerpt for inclusion in `meta` tags](wordpress/format-excerpt-for-meta.md)
+* [Pretty-print the results of an API call at the command line](wordpress/pretty-print-api-results.md)
 
 ---
 
